@@ -30,7 +30,7 @@ export default function Home() {
             </h6>
             <div className="  mt-12">
               <a
-                href="https://smrturl.co/o/66590/53209192?s1="
+                href="/"
                 className="bg-green-600  hover:bg-green-500 duration-150 ease-in-out text-white px-20  text-2xl py-6 rounded-lg font-bold"
               >
                 سجل الآن
